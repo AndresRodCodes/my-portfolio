@@ -59,6 +59,10 @@ nav {
   color: black;
 }
 
+.navbar > a :hover {
+  color: white;
+}
+
 #Home {
   height: 100vh;
   background-image: url("./assets/images/computer.jpg");
